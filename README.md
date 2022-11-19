@@ -1,10 +1,11 @@
 # Hero-Legends
-Mobile game about SuperHeroes
+![Game icon](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/icon.png)
+
+*Mobile game about SuperHeroes*
+[GooglePlay](https://play.google.com/store/apps/details?id=com.ZakiGames.HeroLegends3D "Application page")
 
 My work include fight systems, units animations, level design and game balance.
 I also create video for advertising.
-
-![Game icon](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/icon.png)
 
 ![Heroic position](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/img_1.png)
 ![Common view](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/img_2.png)
