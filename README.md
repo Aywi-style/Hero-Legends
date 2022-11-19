@@ -1,4 +1,4 @@
-# Hero-Legends
+# Hero Legends
 ![Game icon](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/icon.png)
 
 *Mobile game about SuperHeroes.*  
