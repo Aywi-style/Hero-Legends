@@ -1,11 +1,24 @@
 # Hero Legends
 ![Game icon](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/icon.png)
 
-*Mobile game about SuperHeroes.*  
+*Мобильная игра о супергероях.*
 [GooglePlay](https://play.google.com/store/apps/details?id=com.ZakiGames.HeroLegends3D "Application page")
 
-My work include fight systems, units animations, level design and game balance.
-I also create video for advertising.
+Моя работа заключалась в проработке боевых систем, внедрении разных анимаций для всех видов юнитов, дизайн уровней и игровой баланс. Также я занимался видеокреативами.
+
+Реализованы механики:
+• Передвижения отряда;
+• Таргетирования ближайшей цели;
+• Приближение к ближайшей цели;
+• Получение урона;
+• Нанесение урона в ближнем бою после анимации;
+• Моментальное нанесение урона в дальнем бою; 
+• Нанесение урона в дальнем бою с помощью снарядов;
+• Полёт снарядов до цели;
+• Кастомная работа камера: слежка за отрядом, остановка на энкаунтерах, разворот при победе/поражении;
+• Инициализация энкаунтеров и врагов на них;
+• Автолевелинг врагов в зависимости от уровня игры;
+• Автопросчёт награды в зависимости от уровня игры;
 
 ![Heroic position](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/img_1.png)
 ![Common view](https://github.com/Aywi-style/Hero-Legends/raw/main/Media/img_2.png)
